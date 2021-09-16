@@ -1,4 +1,4 @@
-Bonjour, je m'appelle <strong>Hugo</strong> (hgoorick).
+Bonjour, je m'appelle <strong>Hugo</strong>.
 <br/>
 <br/>![Alt Text](https://media0.giphy.com/media/l41JMXnXn4E7WQR8s/giphy.gif?cid=ecf05e47rwjuem2w0r55reux3dx8841qmtgkfivzxeb5xsor&rid=giphy.gif&ct=g)
 <br/>
