@@ -5,5 +5,10 @@ Bonjour, je m'appelle <strong>Hugo</strong>.
 <br/>Je suis étudiant á la <a href="https://www.s19.be">19</a> depuis le 1er septembre 2021.
 <br/><img src = "https://logo-marque.com/wp-content/uploads/2020/12/Discord-Logo.png" width="35" height="20"/><b>        Discord :</b> hgoorick#6228
 <br/><img src = "https://www.universfreebox.com/wp-content/uploads/2019/07/logo_421.png" width="35" height="20"/><b>        Intra :</b> hgoorick
+<br/><img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Logo_Gmail_%282015-2020%29.svg/2560px-Logo_Gmail_%282015-2020%29.svg.png" width="35" height="20"/><b>        Mail :</b> hugoorickx@gmail.com
 <br/>
 <br/>[![42 Profile Card](https://1337-readme.vercel.app/api/profile?cursus=42cursus&dark=true&email=hide&leet_logo=hide&login=hgoorick)](https://profile.intra.42.fr/users/hgoorick)
+<br/>
+<br/><img src = "https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" width="35" height="20"/><b>        Bon niveau</b>
+<br/><img src = "https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" width="35" height="20"/><b>        Bonnes bases</b>
+
