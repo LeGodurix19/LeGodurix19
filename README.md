@@ -1,4 +1,4 @@
-# How am I ?
+# Who am I ?
 Hey, I'm <strong>Hugo</strong>.
 <br/>I'm student at <a href="https://www.s19.be">school 19</a> since first septembre 2021.
 <br/>
