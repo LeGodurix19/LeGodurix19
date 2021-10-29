@@ -10,13 +10,3 @@ Hey, I'm <strong>Hugo</strong>.
 <br/>
 # Profil from 19
 [![42 Profile Card](https://1337-readme.vercel.app/api/profile?cursus=42cursus&dark=true&email=hide&leet_logo=hide&login=hgoorick)](https://profile.intra.42.fr/users/hgoorick)
-# Points
-| Project | Points | Languages |
-| ------- | ------ | ------ |
-| <b>1. <a href = "https://github.com/LeGodurix19/libft">Libft</a></b> | ![42Project Score](https://badge42.herokuapp.com/api/project/hgoorick/Libft) | <img src="https://github.com/LeGodurix19/LeGodurix19/blob/main/logo/c-logo.png" width="30" height="30"> |
-| <b>2. <a href = "https://github.com/LeGodurix19/get_next_line">Get next line</a></b>| ![42Project Score](https://badge42.herokuapp.com/api/project/hgoorick/get_next_line) | <img src="https://github.com/LeGodurix19/LeGodurix19/blob/main/logo/c-logo.png" width="30" height="30"> |
-| <b>3. <a href = "https://github.com/LeGodurix19/ft_printf">Ft_printf</a></b> | ![42Project Score](https://badge42.herokuapp.com/api/project/hgoorick/ft_printf) | <img src="https://github.com/LeGodurix19/LeGodurix19/blob/main/logo/c-logo.png" width="30" height="30"> |
-| <b>4. <a href = "https://github.com/LeGodurix19/born2beroot">Born2beroot</a></b> | ![42Project Score](https://badge42.herokuapp.com/api/project/hgoorick/Born2beroot) | <img src="https://github.com/LeGodurix19/LeGodurix19/blob/main/logo/bash-logo.jpg" width="30" height="30"> <img src="https://github.com/LeGodurix19/LeGodurix19/blob/main/logo/virtualbox-logo.png" width="50" height="30"> |
-| <b>5. <a href = "https://github.com/LeGodurix19/minitalk">Minitalk</a></b> | ![42Project Score](https://badge42.herokuapp.com/api/project/hgoorick/minitalk) | <img src="https://github.com/LeGodurix19/LeGodurix19/blob/main/logo/c-logo.png" width="30" height="30"> |
-| <b>6. <a href = "https://github.com/LeGodurix19/push_swap">Push swap</a></b> | ![42Project Score](https://badge42.herokuapp.com/api/project/hgoorick/push_swap) | <img src="https://github.com/LeGodurix19/LeGodurix19/blob/main/logo/c-logo.png" width="30" height="30"> |
-| <b>7. <a href = "https://github.com/LeGodurix19/so_long">So long</a></b> | ![42Project Score](https://badge42.herokuapp.com/api/project/hgoorick/so_long) | <img src="https://github.com/LeGodurix19/LeGodurix19/blob/main/logo/c-logo.png" width="30" height="30"> | 
