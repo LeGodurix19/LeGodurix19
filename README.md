@@ -5,10 +5,10 @@
   <a href="https://legodurix.be" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-legodurix.be-000000?style=for-the-badge&logo=firefox-browser&logoColor=white" alt="portfolio" />
   </a>
-  <a href="https://github.com/HugoGoorickx/42-projects" target="_blank">
+  <a href="https://github.com/LeGodurix19/19Projects" target="_blank">
     <img src="https://img.shields.io/badge/Campus 19-42 Network-blue?style=for-the-badge&logo=c&logoColor=white" alt="19" />
   </a>
-  <a href="https://github.com/HugoGoorickx/becode-projects" target="_blank">
+  <a href="https://github.com/LeGodurix19/BeCode" target="_blank">
     <img src="https://img.shields.io/badge/BeCode-Fullstack-success?style=for-the-badge&logo=javascript&logoColor=white" alt="becode" />
   </a>
 </p>
@@ -29,7 +29,7 @@ Développeur **fullstack freelance**, j’aide entreprises, startups et porteurs
 
 ## 🗂 Mes projets techniques
 
-> Tu retrouveras ici tous les projets réalisés pendant ma formation à 19, ainsi que plusieurs projets personnels et professionnels.
+> Tu retrouveras ici tous les projets réalisés pendant mes formations à **Campus 19** et **BeCode**, ainsi que des projets personnels ou freelance.
 
 ### 🔧 Projets systèmes & bas niveau
 
@@ -54,13 +54,17 @@ Développeur **fullstack freelance**, j’aide entreprises, startups et porteurs
 
 ---
 
-### 🛠 Shell, Réseau, DevOps
+### 🌐 Projets Web & UI
 
 | Projet | Description | Compétences |
 |--------|-------------|-------------|
 | **Minishell** | Shell UNIX simplifié | Fork, exec, pipes, parsing |
 | **Webserv** | Serveur HTTP C++98 | Sockets, HTTP, CGI |
 | **Inception** | Infra Docker sécurisée | Docker Compose, TLS, NGINX |
+| **ToDo** | Application de tâches simple et intuitive | HTML/CSS/JS, DOM, localStorage |
+| **Planner_project** | Planning hebdomadaire avec tâches dynamiques | JavaScript pur, logique UI |
+| **Kitchen_project** | Gestionnaire de recettes de cuisine personnalisées | Stockage local, interaction DOM |
+| **Collection** | Application de collection interactive | CRUD JS, responsive design |
 
 ---
 
@@ -68,40 +72,42 @@ Développeur **fullstack freelance**, j’aide entreprises, startups et porteurs
 
 **Frontend**
 - React ⚛️, Next.js, TypeScript
-- TailwindCSS, SCSS, Animations Framer Motion
-- Accessibilité, design system
+- TailwindCSS, SCSS, Framer Motion
+- Accessibilité, design system, mobile-first
 
 **Backend & API**
-- NestJS, Node.js, Express
+- Node.js, Express, NestJS
+- **Django**, Django REST Framework
+- **PHP** (vanilla, MVC)
 - PostgreSQL, MongoDB
-- Auth, WebSocket, REST, OAuth42
+- Authentification, WebSocket, REST, OAuth42
 
 **DevOps & Infra**
 - Docker, Docker Compose 🐳
-- CI/CD, monitoring, NGINX, TLS
+- CI/CD, monitoring, NGINX, HTTPS
 
-**Soft skills**
-- Pédagogie, communication, documentation
-- GitHub & collaboration en équipe
-- Méthodes agiles, clean code
+**Autres compétences**
+- Git, GitHub Actions, Trello, Notion
+- Méthodes agiles, pair programming
+- Documentation, pédagogie, soft skills
 
 ---
 
 ## 📚 Formations
 
 🎓 **Campus 19 (42 Network)**  
-Formation intensive en bas-niveau, C, OS, réseau, Git, sécurité  
-→ [Voir les projets](https://github.com/HugoGoorickx/42-projects)
+> Développement système, algorithmie, C, OS, réseau, sécurité, DevOps  
+🔗 [Voir les projets](https://github.com/LeGodurix19/19Projects)
 
 🎓 **BeCode - Fullstack Web Developer**  
-Frontend (HTML/CSS/JS), Backend (Node.js, Express), React, Agile, Soft skills  
-→ [Voir les projets](https://github.com/HugoGoorickx/BeCode)
+> HTML/CSS/JS, React, Node.js, PHP, Agile, projets réels en équipe  
+🔗 [Voir les projets](https://github.com/LeGodurix19/BeCode)
 
 ---
 
 ## 🌍 Me retrouver ailleurs
 
-- 🔗 [Mon site web pro]([https://hugogoorickx.dev](https://legodurix.be))
+- 🔗 **Site web** : [legodurix.be](https://legodurix.be)
 - 📫 **Email** : contact@legodurix.be
 
 ---
@@ -109,6 +115,4 @@ Frontend (HTML/CSS/JS), Backend (Node.js, Express), React, Agile, Soft skills
 ## ⭐️ Merci pour ta visite !
 
 > Ce dépôt est la vitrine de mon parcours et de mes compétences.  
-> N’hésite pas à explorer les projets, à me contacter pour collaborer, ou à me suivre pour la suite de mon aventure tech !
-
----
+> N’hésite pas à explorer les projets, à me contacter pour collaborer, ou à me suivre pour la suite de mon aventure tech 🚀
