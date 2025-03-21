@@ -95,7 +95,7 @@ Formation intensive en bas-niveau, C, OS, réseau, Git, sécurité
 
 🎓 **BeCode - Fullstack Web Developer**  
 Frontend (HTML/CSS/JS), Backend (Node.js, Express), React, Agile, Soft skills  
-→ [Voir les projets](https://github.com/HugoGoorickx/becode-projects)
+→ [Voir les projets](https://github.com/HugoGoorickx/BeCode)
 
 ---
 
